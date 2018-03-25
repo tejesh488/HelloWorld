@@ -2,6 +2,6 @@ public class HelloWorld
 {
 public static void main (String ars[])
 {
-System.out.println("Hello000Teja");
+System.out.println("Hello");
 }
 }
